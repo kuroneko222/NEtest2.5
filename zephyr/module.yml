@@ -1,4 +1,4 @@
-name:NEtest3
+name: NEtest3
 build:
   settings:
     board_root: config
