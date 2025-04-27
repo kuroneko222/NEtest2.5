@@ -1,0 +1,5 @@
+config SHELD_NEtest3_R
+    def_bool $(shields_list_contains,NEtest3_R)
+
+config SHIELD_NEtest3_L
+    def_bool $(shields_list_contains,NEtest3_L)
