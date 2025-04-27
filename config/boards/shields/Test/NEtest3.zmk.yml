@@ -1,8 +1,12 @@
 file_format: "1"
 id: NEtest3
 name: NEtest3
-type: shield
+type: board
+outputs:
+  - usb
+  - ble
 url: https://github.com/kuroneko222/NEtest3
 requires: [seeeduino_xiao_ble]
 features:
   - keys
+exposes: [seeed_xiao]
