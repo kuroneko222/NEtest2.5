@@ -19,5 +19,10 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
-    shield: tester_xiao
+ - board: seeeduino_xiao_ble
+   shield: NEtest3_R
+   snippet: studio-rpc-usb-uart
+ - board: seeeduino_xiao_ble
+   shield: NEtest3_L
+ - board: seeeduino_xiao_ble
+   shield: settings_reset
