@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: kuroneko222
-      url-base: https://github.com/kuroneko222/NEtest3/tree/master
+      url-base: https://github.com/kuroneko222
   projects:
     - name: zmk
       remote: zmkfirmware
