@@ -1,5 +1,0 @@
-// left.overlay
-&i2c1 {
-    status = "okay";
-    split-role = "central"; // 左側を中央（マスター）に設定
-};
